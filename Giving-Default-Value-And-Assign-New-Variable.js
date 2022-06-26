@@ -10,10 +10,10 @@ const mhs = {
 // Destructuring:
 const { nama_mhs : na, umur_mhs: um, email: em = 'email@default.com' } = mhs;
 
-// New Variable:
+// New Variable (Additional):
 console.log(em); // output: email@default.com
 
-// Destructured:
+// Destructured with New Variables:
 console.log(um); // output: 34
 console.log(na); // output: Bala Dewa
 
