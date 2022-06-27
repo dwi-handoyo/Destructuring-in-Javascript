@@ -18,7 +18,7 @@ Destructuring Variable / Assignment are including:
 
 4. Return Value in a Function
 
-5. Rest Parameter (...something)
+5. Rest Parameter in Array (...something)
 
 6. Destructuring Object - by using {}
 
@@ -33,6 +33,7 @@ Destructuring Variable / Assignment are including:
 11. Rest Parameter in Object
 
 12. Retrieve from An Object then Pass To A Function 
+
     Retrieves a field in an object, after it is passed as a parameter to a function.
     
 B. DESTRUCTURING FUNCTION
