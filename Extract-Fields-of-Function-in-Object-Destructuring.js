@@ -43,4 +43,28 @@ console.log(getValue(mhs));
 // Default Value - Multiple Fields
 console.log(getItems(mhs)); // output: 123, Gagak Rimang
 
+//------------------------------------------------------------------
 
+// Extract fields by using .map method in Object Destructuring
+
+// Object
+const heroes = [
+  { name: 'Batman', role: 'Good guy' },
+  { name: 'Joker', role: 'Bad guy' }
+];
+
+// Destructuring
+const player = heroes.map(
+  function({ name, role }) {
+    return name + ' as ' + role;
+  }
+);
+
+const names = heroes.map(
+ function({ name }){
+  return name;
+ }
+);
+// Result
+console.log(player); // output: ["Batman as Good guy", "Joker as Bad guy"]
+console.log(names); // output: ["Batman", "Joker"]
