@@ -14,3 +14,22 @@ console.log(mhs.umur); // output: 23
 const {nama, umur} = mhs;
 console.log(nama); // output: Godam Best
 console.log(umur); // output: 23
+
+// Destructuring Nested Object
+
+// Nested Object
+const hero = {
+  name: 'Batman',
+  realName: 'Bruce Wayne',
+  address: {
+    city: 'Gotham'
+  }
+};
+
+// Object destructuring:
+const { address: { city } } = hero;
+
+// Result
+console.log(city); // output: 'Gotham'
+
+
