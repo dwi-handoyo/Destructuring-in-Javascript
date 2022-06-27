@@ -22,6 +22,8 @@ Destructuring Variable / Assignment are including:
 
 6. Destructuring Object - by using {}
 
+   Object and nested object destructuring
+
 7. Assignment without Object Declaration
 
 8. Assignment to New Variable
@@ -32,9 +34,10 @@ Destructuring Variable / Assignment are including:
 
 11. Rest Parameter in Object
 
-12. Retrieve from An Object then Pass To A Function 
+12. Extract Fields of Function in Object Destructuring 
 
-    Retrieves a field in an object, after it is passed as a parameter to a function.
+    Object destructuring by using function. Retrieves a field in an object, after it is passed as a parameter to a function. 
+    Including .map method to destructure an object.
     
 B. DESTRUCTURING FUNCTION
 
