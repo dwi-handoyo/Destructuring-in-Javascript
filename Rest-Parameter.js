@@ -16,3 +16,10 @@ const [k, ...values] = [1, 2, 3, 4, 5, 6];
 console.log(k);  // output: 1
 console.log(values); // output: [2, 3, 4, 5, 6] 
 
+const [a, b, c, ...rest] = [3,2,5,4,1,4,7,8,9];
+console.log(a); // output: 3
+console.log(b); // output: 2
+console.log(c); // output: 5
+console.log(rest); // output: [4,1,4,7,8,9]
+
+
