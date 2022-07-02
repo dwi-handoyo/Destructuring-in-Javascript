@@ -69,11 +69,17 @@ B. DESTRUCTURING FUNCTION
 
    1.1 Destructuring Array
    
-       * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Return-Destructuring-Array.js
+   * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Return-Destructuring-Array.js
    
    1.2 Destructuring Object
+   
+   * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Return-Destructuring-Object.js
  
 2. Destructuring function arguments
  
+   * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Arguments-Destructuring.js
+   
+   
+   
 
 
