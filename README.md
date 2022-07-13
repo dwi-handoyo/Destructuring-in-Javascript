@@ -1,6 +1,6 @@
-# Destructuring-in-Javascript
+# Destructuring in Javascript
 
-A. DESTRUCTURING ASSIGNMENT
+### A. DESTRUCTURING ASSIGNMENT
 
 The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
 
@@ -10,62 +10,62 @@ Destructuring saves you time and lines of code. One line accomplishes what 2 or 
 
 Destructuring Variable / Assignment are including:
 
-1. Destructuring Array - by using []
+#### 1. Destructuring Array - by using []
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Destructuring-Array.html
 
-2. Skipping Items
+#### 2. Skipping Items
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Skipping-Items.js
 
-3. Swap Items
+#### . Swap Items
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Swap-Items.js
 
-4. Return Value in a Function
+#### 4. Return Value in a Function
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Return-Value-in-Function.js
 
-5. Rest Parameter in Array (...something)
+#### 5. Rest Parameter in Array (...something)
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Rest-Parameter.js
 
-6. Destructuring Object - by using {}
+#### 6. Destructuring Object - by using {}
 
    Object and nested object destructuring
    
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Destructuring-Object.js
 
-7. Assignment without Object Declaration
+#### 7. Assignment without Object Declaration
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Assign-Without-Object-Declaration.js
 
-8. Assignment to New Variable
+#### 8. Assignment to New Variable
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Assign-To-New-Variable.js
 
-9. To Give Default Value
+#### 9. To Give Default Value
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Giving-Default-Value.js
 
-10. To Give Default Value and Assignment to New Variable
+#### 10. To Give Default Value and Assignment to New Variable
 
     * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Giving-Default-Value-And-Assign-New-Variable.js
 
-11. Rest Parameter in Object
+#### 11. Rest Parameter in Object
 
     * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Rest-Parameter-in-Object.js
 
-12. Extract Fields of Function in Object Destructuring 
+#### 12. Extract Fields of Function in Object Destructuring 
 
     Object destructuring by using function. Retrieves a field in an object, after it is passed as a parameter to a function. 
     Including .map method to destructure an object.
     
     * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Extract-Fields-of-Function-in-Object-Destructuring.js
     
-B. DESTRUCTURING FUNCTION
+### B. DESTRUCTURING FUNCTION
 
-1. Destructuring function return value
+#### 1. Destructuring function return value
 
    1.1 Destructuring Array
    
@@ -75,7 +75,7 @@ B. DESTRUCTURING FUNCTION
    
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Return-Destructuring-Object.js
  
-2. Destructuring function arguments
+#### 2. Destructuring function arguments
  
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Arguments-Destructuring.js
    
