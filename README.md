@@ -50,18 +50,18 @@ Destructuring Variable / Assignment are including:
 
 #### 10. To Give Default Value and Assignment to New Variable
 
-    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Giving-Default-Value-And-Assign-New-Variable.js
+   * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Giving-Default-Value-And-Assign-New-Variable.js
 
 #### 11. Rest Parameter in Object
 
-    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Rest-Parameter-in-Object.js
+   * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Rest-Parameter-in-Object.js
 
 #### 12. Extract Fields of Function in Object Destructuring 
 
-    Object destructuring by using function. Retrieves a field in an object, after it is passed as a parameter to a function. 
-    Including .map method to destructure an object.
+   Object destructuring by using function. Retrieves a field in an object, after it is passed as a parameter to a function. 
+   Including .map method to destructure an object.
     
-    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Extract-Fields-of-Function-in-Object-Destructuring.js
+   * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Extract-Fields-of-Function-in-Object-Destructuring.js
     
 ### B. DESTRUCTURING FUNCTION
 
