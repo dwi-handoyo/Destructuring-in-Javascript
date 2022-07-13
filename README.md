@@ -6,7 +6,7 @@ The destructuring assignment syntax is a JavaScript expression that makes it pos
 
 Destructuring means to break down a complex structure into simpler parts. With the syntax of destructuring, you can extract smaller fragments from objects and arrays. It can be used for assignments and declaration of a variable.
 
-Destructuring saves you time and lines of code. One line accomplishes what 2 or 10 lines of code do. Specifically for React destructuring helps you keep your code DRY.
+Destructuring saves you time and lines of code. One line accomplishes what 2 or 10 lines of code do. Specifically for React destructuring helps you keep your code DRY (Don't Repeat Yourself).
 
 Destructuring Variable / Assignment are including:
 
@@ -18,7 +18,7 @@ Destructuring Variable / Assignment are including:
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Skipping-Items.js
 
-#### . Swap Items
+#### 3. Swap Items
 
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Swap-Items.js
 
@@ -66,12 +66,11 @@ Destructuring Variable / Assignment are including:
 ### B. DESTRUCTURING FUNCTION
 
 #### 1. Destructuring function return value
-
-   1.1 Destructuring Array
+##### 1.1 Destructuring Array
    
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Return-Destructuring-Array.js
    
-   1.2 Destructuring Object
+##### 1.2 Destructuring Object
    
    * https://github.com/dwi-handoyo/Destructuring-in-Javascript/blob/main/Function-Return-Destructuring-Object.js
  
